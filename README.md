@@ -157,3 +157,8 @@ Baza danych została zaprojektowana do zarządzania informacjami w szpitalu, obe
 - **Zarządzanie lekami i sprzętem**: Baza przechowuje informacje o lekach i sprzęcie medycznym dostępnym w szpitalu.
 - **Bezpieczeństwo i uprawnienia**: Baza umożliwia zarządzanie rolami i uprawnieniami użytkowników systemu.
 - **Automatyzacja**: Dzięki wyzwalaczom i eventom baza automatycznie sprawdza poprawność danych i zarządza partycjami w tabelach.
+
+## Baza wykonana przez:
+- **https://github.com/andr0meda727**
+- **https://github.com/Master3353**
+- **https://github.com/xpawelek**
