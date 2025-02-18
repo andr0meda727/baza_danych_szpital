@@ -158,7 +158,7 @@ Baza danych została zaprojektowana do zarządzania informacjami w szpitalu, obe
 - **Bezpieczeństwo i uprawnienia**: Baza umożliwia zarządzanie rolami i uprawnieniami użytkowników systemu.
 - **Automatyzacja**: Dzięki wyzwalaczom i eventom baza automatycznie sprawdza poprawność danych i zarządza partycjami w tabelach.
 
-## Baza wykonana przez:
+## Baza wykonana przez: 
 - **https://github.com/andr0meda727**
 - **https://github.com/Master3353**
 - **https://github.com/xpawelek**
