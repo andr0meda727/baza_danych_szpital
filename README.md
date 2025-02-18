@@ -1,4 +1,4 @@
-# Opis bazy danych szpitala
+# Opis bazy danych szpitala 
 
 Baza danych została zaprojektowana do zarządzania informacjami w szpitalu, obejmującą pacjentów, pracowników, wizyty, hospitalizacje, leki, sprzęt medyczny oraz wiele innych aspektów związanych z funkcjonowaniem placówki medycznej. Poniżej znajduje się szczegółowy opis struktury bazy danych oraz zastosowanych funkcjonalności.
 
